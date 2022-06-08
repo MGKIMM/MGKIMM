@@ -40,22 +40,22 @@
 
 
             #첫째 줄에 시험 점수가 주어진다
-            # . 시험 점수는 0보다 크거나 같고, 100보다 작거나 같은 정수이다.
-while True:
-    a=int(input("시험점수:"))      
+#             # . 시험 점수는 0보다 크거나 같고, 100보다 작거나 같은 정수이다.
+# while True:
+#     a=int(input("시험점수:"))      
 
-    if 0<=a<=100:
-        if 90<=a<=100:
-            print('A')
+#     if 0<=a<=100:
+#         if 90<=a<=100:
+#             print('A')
 
-        elif 80<=a<=89:
-            print("B")
-        elif 70<=a<=79:
-            print("c")
-        elif 60<=a<=69:
-            print('D')
+#         elif 80<=a<=89:
+#             print("B")
+#         elif 70<=a<=79:
+#             print("c")
+#         elif 60<=a<=69:
+#             print('D')
 
-        else:
-            print("F")
+#         else:
+#             print("F")
 
 
